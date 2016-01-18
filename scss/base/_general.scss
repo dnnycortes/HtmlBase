@@ -1,0 +1,25 @@
+/*
+Theme Name: Templete de muestra para (inserte marca)
+Theme URI: (inserte url de marca)
+Author: Daniela Cortés
+Author URI: http://www.dnnycortes.com/
+Description: Templete generado exclusivamente para el uso interno de (inserte marca)
+Version: 1.0
+License: GNU General Public License v2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+Tags: fotos, responsive
+Text Domain: (nombre de marca)
+*/
+
+// Cambia el color de la selección dentro de los navegadores en los navegadores que lo soportan
+
+::-moz-selection{
+	background: 			#00a8d8;  // personalizar
+	color: 					#fff; 
+	text-shadow: 			none;
+}
+::selection{
+	background: 			#00a8d8; // personalizar
+	color: 					#fff; 
+	text-shadow: 			none;
+} 
