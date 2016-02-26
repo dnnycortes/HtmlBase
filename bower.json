@@ -1,0 +1,26 @@
+{
+  "name": "Templete",
+  "homepage": "https://github.com/dnnycortes/HtmlBase",
+  "authors": [
+    "Daniela Cortes"
+  ],
+  "description": "Este es un templete por dafult",
+  "main": "index.html",
+  "moduleType": [],
+  "keywords": [
+    "templete",
+    "plantilla"
+  ],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "^2.2.1"
+  }
+}
